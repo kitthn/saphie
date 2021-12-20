@@ -1,10 +1,4 @@
 {
     "token": "",
-    "password": "none",
-    "richpresence": true,
-    "prefix": ".",
-    "mention_logger": true,
-    "block_ping": true,
-    "disable_eval": true,
-    "slotbotsnipe": true
+    "password": "none"
 }
