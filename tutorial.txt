@@ -1,0 +1,26 @@
+how to use:
+
+you must first have python installed, and added to path (duh).
+
+if the install file doesnt work/crashes immediately, you probably dont have pip installed.
+you can see if you do or do not by opening a command prompt and typing "pip" with no quotation marks. 
+if nothing is shown/unknown command error, you do not have python added to path.
+add it to path my following the instructions on my github.
+
+if the run me first freezes mid installation, open a command prompt and navigate to the directory with the selfbot in it and type:
+pip install -r requirements.txt
+
+it should install correctly, if any errors show, look at the error and try resolving it by searching the error up.
+
+if everything installs correctly, you can run the selfbot by typing in the command line:
+python main.py  
+
+or running the new run.bat file.
+
+if there are any module errors, you can fix this by typing this into the command prompt:
+pip install modulename 
+
+updates will be posted frequently, check my github every week or so to update.
+
+
+thanks for using nuked !
