@@ -1509,7 +1509,7 @@ async def ascii(ctx, *, message):
 async def download(ctx):
     await ctx.message.delete()
     embed = discord.Embed(title="**Use this link to download Nuked**", color=0xFFFAFA,
-                          description="https://github.com/appendable/nuked",
+                          description="https://github.com/kitthn/saphie",
                           timestamp=datetime.datetime.utcfromtimestamp(time.time()))
     await ctx.send(embed=embed, delete_after=val)
 
